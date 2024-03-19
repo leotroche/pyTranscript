@@ -25,7 +25,7 @@ pip install SpeechRecognition
 
 Puedes descargar el archivo ejecutable desde el siguiente enlace _(No firmado digitalmente)_: ⬇️ [Descargar](release/pyTranscript_1.0.0.exe)
 
-## 🛠️ Compilar tu Propio Ejecutable
+## 🛠️ Compilar tu Propio Ejecutable:
 
 Si prefieres compilar tu propio ejecutable, sigue estos pasos:
 
