@@ -9,4 +9,4 @@ pip install pyaudio
 pip install speechRecognition
 ```
 
-💾 Archivo ejecutable disponible !!!
+💾 Archivo ejecutable disponible: [Descargar](release/pyTranscript_1.0.0.exe)
