@@ -47,7 +47,7 @@ pip install pyinstaller
 pyinstaller -F main.py
 ```
 
-El ejecutable estará disponible en _dist/main.exe_ -->
+El ejecutable estará disponible en _dist/main.exe_
 
 ## 📝 Licencia:
 
