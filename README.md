@@ -23,7 +23,7 @@ pip install SpeechRecognition
 
 ## 🚀 Ejecutable:
 
-Puedes descargar el archivo ejecutable desde el siguiente enlace _(No firmado digitalmente)_: ⬇️ [pyTranscript_v1.0.0.exe](https://github.com/leotroche/pyTranscript/releases/download/v1.0.0/pyTranscript_v1.0.0.exe)
+Puedes descargar el archivo ejecutable desde el siguiente enlace: ⬇️ [pyTranscript_v1.0.0.exe](https://github.com/leotroche/pyTranscript/releases/download/v1.0.0/pyTranscript_v1.0.0.exe)
 
 ## 🛠️ Compilar tu Propio Ejecutable:
 
@@ -51,4 +51,6 @@ El ejecutable estará disponible en _dist/main.exe_ -->
 
 ## 📝 Licencia:
 
-Este proyecto se distribuye bajo la licencia MIT. Puedes encontrar los términos completos de la licencia en el archivo [LICENCE](LICENCE.md) del repositorio.
+Este proyecto se distribuye bajo la licencia MIT.  
+Puedes encontrar los términos completos de la licencia en el archivo [LICENCE](LICENCE.md) del repositorio.
+
