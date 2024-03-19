@@ -51,4 +51,4 @@ El ejecutable estará disponible en _dist/main.exe_ -->
 
 ## 📝 Licencia:
 
-Este proyecto se distribuye bajo la licencia MIT. Puedes encontrar los términos completos de la licencia en el archivo LICENSE del repositorio.
+Este proyecto se distribuye bajo la licencia MIT. Puedes encontrar los términos completos de la licencia en el archivo [LICENCE](LICENCE.md) del repositorio.
